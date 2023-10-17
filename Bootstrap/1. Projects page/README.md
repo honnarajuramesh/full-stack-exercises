@@ -1,0 +1,1 @@
+Try to replicate this website - [link](https://raw.githack.com/geeksterin/full-stack-exercises/main/Bootstrap/1.%20Projects%20page/index.html)  using the bootstrap. If you are not sure of anything, feel free to use developer tools
